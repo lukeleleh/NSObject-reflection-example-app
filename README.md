@@ -1,6 +1,8 @@
 # Reflection in Swift using NSObject
 Example app using the `NSObject` power to invoke methods whose signature and parent type are unknown at compile time.
 
+Check out the [Medium post](https://medium.com/@luka.hristic.dev/reflection-in-swift-using-nsobject-142cf38d2b0e) related to this repository.
+
 ## Requirements
 
 - iOS 12.1+ (Swift 4.2)
